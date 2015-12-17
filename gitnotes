@@ -1,9 +1,10 @@
 # on website, fork into my github, then
 git clone https://github.com/spezies5681/2015lab1.git
+# save in the right place
 cd 2015
 cd 2015lab1/
 ls
-touch tmp
+# add (if new file), commit, then push to repo
 git add -A
 git commit -m "added test file"
 git status
